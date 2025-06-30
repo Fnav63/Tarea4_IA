@@ -1,4 +1,4 @@
-# Tarea 4 IA
+# Tarea 4 IA Franko Navarrete
 
 ##        Requisitos       ##
 
